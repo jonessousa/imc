@@ -1,0 +1,14 @@
+body{
+    background-image: linear-gradient(to left, rgba(102, 0, 128, 0.712), rgba(0, 17, 255, 0.753));
+    background-attachment: fixed;
+    text-align: center;
+    padding: 10px;
+}
+
+h1{
+    color: rgb(9, 0, 87);
+}
+ #imcform{
+    display: inline-flex;
+    
+}
